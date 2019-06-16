@@ -5,7 +5,8 @@
 
 .container_footer {
     margin: 0 auto;
-    max-width: 50em;
+    padding-left: 15em;
+    padding-right: 12em;
 }
 
 .color_nav_bar{
@@ -88,6 +89,33 @@
     font-weight: bold;
 
 }
+.font_8{
+    font-family: Montserrat;
+    font-size: 1.6em;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+
+}
+
+.font_9{
+    font-family: Montserrat;
+    font-size: 1.4em;
+    color: white;
+    text-align: right;
+    font-weight: bold;
+
+}
+
+.font_10{
+    font-family: Montserrat;
+    font-size: 1em;
+    color: #A0A3AD;
+    text-align: left;
+    font-weight: bold;
+
+}
+
 
 .image_icon{
     display:flex;
@@ -105,6 +133,16 @@
     -webkit-border-radius: 11px 11px 11px 11px;
     border: 0px solid #000000;
     color: white;
+}
+
+.cuadrado_contacto{
+    padding:5px;
+    margin:5px;
+    background-color: #ffffff;
+    bborder-radius: 11px 11px 11px 11px;
+    -moz-border-radius: 11px 11px 11px 11px;
+    -webkit-border-radius: 11px 11px 11px 11px;
+    border: 0px solid #000000;
 }
 
 .publicidad{
