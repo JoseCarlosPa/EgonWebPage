@@ -3,6 +3,11 @@
     max-width: 50em;
 }
 
+.container_footer {
+    margin: 0 auto;
+    max-width: 50em;
+}
+
 .color_nav_bar{
     color: #1b1e21;
     background: #F8F8F8;
@@ -42,10 +47,72 @@
 
 }
 
+.font_4{
+    font-family: Montserrat;
+    color: black;
+    font-weight: bold;
 
-.col-2 {
+}
+
+.font_5{
+    font-family: Montserrat;
+    font-size: 0.9em;
+    color: white;
+    text-align: left;
+    font-weight: normal;
+
+
+}
+.font_6{
+    font-family: Montserrat;
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
     width: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    height: 30%;
+    margin: auto;
+
+
+}
+
+.font_7{
+    font-family: Montserrat;
+    font-size: 2em;
+    color: black;
+    font-weight: bold;
+
+}
+
+.image_icon{
+    display:flex;
+    margin:0 auto;
+    padding-bottom: 10px;
+}
+
+.cuadrado{
+    padding:5px;
+    margin:5px;
+
+    background-color: #2c4b9f;
+    bborder-radius: 11px 11px 11px 11px;
+    -moz-border-radius: 11px 11px 11px 11px;
+    -webkit-border-radius: 11px 11px 11px 11px;
+    border: 0px solid #000000;
+    color: white;
+}
+
+.publicidad{
+    background: #F5F5F5;
+
+}
+
+footer{
+    background: #252525;
+
 }
