@@ -14,3 +14,38 @@
     background: -moz-linear-gradient(#aee7ff, #59c1ee); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#aee7ff, #59c1ee); /* Standard syntax */
 }
+.big_letter{
+    font-size: 6em;
+    color: #2C4B9F ;
+}
+.font_1{
+    font-family: Montserrat;
+    font-size: 1.5em;
+    color: black;
+    font-weight: bold;
+
+}
+
+.font_2{
+    font-family: Montserrat;
+    font-size: 1.2em;
+    color: black;
+    font-weight: normal;
+
+}
+
+.font_3{
+    font-family: Montserrat;
+    font-size: 0.9em;
+    color: black;
+    font-weight: normal;
+
+}
+
+
+.col-2 {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
