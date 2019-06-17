@@ -155,7 +155,17 @@
     border: 0px solid #000000;
     color: white;
 }
+.cuadrado_clubs{
+    padding:5px;
+    margin:5px;
 
+    background-color: #4DBFC3;
+    bborder-radius: 11px 11px 11px 11px;
+    -moz-border-radius: 11px 11px 11px 11px;
+    -webkit-border-radius: 11px 11px 11px 11px;
+    border: 0px solid #000000;
+    color: white;
+}
 .cuadrado_contacto{
     padding:5px;
     margin:5px;
@@ -165,6 +175,7 @@
     -webkit-border-radius: 11px 11px 11px 11px;
     border: 0px solid #000000;
 }
+
 
 .publicidad{
     background: #F5F5F5;

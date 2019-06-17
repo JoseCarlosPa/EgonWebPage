@@ -1,7 +1,7 @@
 <?php
 
 
-include("header.html");
-include ("clubs.html");
-include ("footer.html");
+include("htmls/header.html");
+include("htmls/clubs.html");
+include("htmls/footer.html");
 ?>

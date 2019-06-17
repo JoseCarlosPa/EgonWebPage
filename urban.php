@@ -1,6 +1,6 @@
 <?php
 //Se Usara estrucutra por modelo-capas
-include("header.html");
-include ("urban.html");
-include ("footer.html");
+include("htmls/header.html");
+include("htmls/urban.html");
+include("htmls/footer.html");
 ?>
