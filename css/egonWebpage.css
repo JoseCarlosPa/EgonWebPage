@@ -82,6 +82,7 @@
     color: white;
     text-align: left;
     font-weight: normal;
+    vertical-align: middle;
 
 
 }
@@ -90,6 +91,7 @@
     font-size: 1.5em;
     color: white;
     text-align: center;
+    vertical-align: middle;
     font-weight: bold;
     position: absolute;
     top: 0;
@@ -146,8 +148,8 @@
 
 .cuadrado{
     padding:5px;
-    margin:5px;
-
+    width:60em;
+    height:10em;
     background-color: #2c4b9f;
     bborder-radius: 11px 11px 11px 11px;
     -moz-border-radius: 11px 11px 11px 11px;
@@ -157,7 +159,8 @@
 }
 .cuadrado_clubs{
     padding:5px;
-    margin:5px;
+    width:60em;
+    height:10em;
 
     background-color: #4DBFC3;
     bborder-radius: 11px 11px 11px 11px;
@@ -175,7 +178,9 @@
     -webkit-border-radius: 11px 11px 11px 11px;
     border: 0px solid #000000;
 }
-
+.img_tarjetas{
+    position:relative;
+}
 
 .publicidad{
     background: #F5F5F5;

@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0da71cea-dbeb-4524-8e1d-6d90114a8498" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clubs.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/clubs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clubs.php" beforeDir="false" afterPath="$PROJECT_DIR$/clubs.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/egonWebpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/egonWebpage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urban.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/urban.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urban.php" beforeDir="false" afterPath="$PROJECT_DIR$/urban.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmls/urban.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/urban.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,20 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/htmls/clubs.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmls/urban.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="152" column="30" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
+            <state relative-caret-position="360">
+              <caret line="221" column="93" lean-forward="true" selection-start-line="221" selection-start-column="93" selection-end-line="221" selection-end-column="93" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/egonWebpage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="157" column="15" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="15" />
+            <state relative-caret-position="255">
+              <caret line="92" column="17" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -77,9 +72,9 @@
         <option value="$PROJECT_DIR$/urban.php" />
         <option value="$PROJECT_DIR$/htmls/header.html" />
         <option value="$PROJECT_DIR$/htmls/footer.html" />
+        <option value="$PROJECT_DIR$/htmls/clubs.html" />
         <option value="$PROJECT_DIR$/htmls/urban.html" />
         <option value="$PROJECT_DIR$/css/egonWebpage.css" />
-        <option value="$PROJECT_DIR$/htmls/clubs.html" />
       </list>
     </option>
   </component>
@@ -125,7 +120,7 @@
               <item name="EgonWebPage" type="b2602c69:ProjectViewProjectNode" />
               <item name="EgonWebPage" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="clubs" type="462c0819:PsiDirectoryNode" />
+              <item name="urban" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +166,7 @@
       <updated>1560638236370</updated>
       <workItem from="1560638242707" duration="13022000" />
       <workItem from="1560694743981" duration="10957000" />
-      <workItem from="1560786680853" duration="6333000" />
+      <workItem from="1560786680853" duration="8385000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrego el nav bar y se corrigo los colores&#10;falta corregir el orden y las fuentes">
       <created>1560654828483</created>
@@ -184,7 +179,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31288000" />
+    <option name="totallyTimeSpent" value="33340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
@@ -298,13 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmls/urban.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/htmls/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -312,17 +300,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/egonWebpage.css">
+    <entry file="file://$PROJECT_DIR$/htmls/clubs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="157" column="15" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="15" />
+        <state relative-caret-position="273">
+          <caret line="168" column="26" lean-forward="true" selection-start-line="168" selection-start-column="26" selection-end-line="168" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmls/clubs.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmls/urban.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="152" column="30" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
+        <state relative-caret-position="360">
+          <caret line="221" column="93" lean-forward="true" selection-start-line="221" selection-start-column="93" selection-end-line="221" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/egonWebpage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="92" column="17" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
         </state>
       </provider>
     </entry>
