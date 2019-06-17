@@ -1,6 +1,6 @@
 .container {
     margin: 0 auto;
-    max-width: 50em;
+    max-width: 60em;
 }
 
 .container_footer {
@@ -14,15 +14,28 @@
     background: #F8F8F8;
     text-align: right;
 }
+
+
 .background_header{
     background: -webkit-linear-gradient(#aee7ff, #59c1ee); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(#aee7ff, #59c1ee); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(#aee7ff, #59c1ee); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#aee7ff, #59c1ee); /* Standard syntax */
 }
+
+.background_clubs{
+    background: -webkit-linear-gradient(#eaf9f9, #2fdfe5); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#eaf9f9, #2fdfe5); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#eaf9f9, #2fdfe5); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#eaf9f9, #2fdfe5); /* Standard syntax */
+}
 .big_letter{
     font-size: 6em;
     color: #2C4B9F ;
+}
+.big_letter_clubs{
+    font-size: 6em;
+    color: #4DBFC3 ;
 }
 .font_1{
     font-family: Montserrat;
@@ -54,6 +67,14 @@
     font-weight: bold;
 
 }
+.font_4_clubs{
+    font-family: Montserrat;
+    font-size: 0.8em;
+    color: black;
+    font-weight: bold;
+
+}
+
 
 .font_5{
     font-family: Montserrat;
