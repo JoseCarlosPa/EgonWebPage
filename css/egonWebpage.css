@@ -63,6 +63,7 @@
     font-size: 6em;
     color: #2C4B9F ;
 }
+
 .big_letter_clubs{
     font-size: 6em;
     color: #4DBFC3 ;
@@ -87,12 +88,16 @@
     font-size: 6em;
     color: #F4240F ;
 }
+
+.correo{
+    color: black;
+}
+
 .font_1{
     font-family: Montserrat;
     font-size: 1.5em;
     color: black;
     font-weight: bold;
-
 }
 
 .font_2{
@@ -189,6 +194,48 @@
 
 }
 
+.font_11{
+    font-family: Montserrat;
+    font-size: 2.6em;
+    color: black;
+    font-weight: 800;
+}
+
+.font_12{
+    font-family: Montserrat;
+    font-size: 0.7em;
+    color: black;
+    font-weight: 400;
+}
+
+.font_13{
+    font-family: Montserrat;
+    font-size: 2em;
+    color: black;
+    font-weight: 800;
+}
+
+.font_14{
+    font-family: Montserrat;
+    font-size: 1.5em;
+    color: black;
+    font-weight: 400;
+}
+
+.font_15{
+    font-family: Montserrat;
+    font-size: 2.6em;
+    color: white;
+    font-weight: 800;
+}
+
+.font_16{
+    font-family: Montserrat;
+    font-size: 0.7em;
+    color: black;
+    font-weight: 800;
+}
+
 
 .image_icon{
     display:flex;
@@ -220,13 +267,14 @@
     color: white;
 }
 .cuadrado_contacto{
-    padding:5px;
+    padding:7px;
     margin:5px;
     background-color: #ffffff;
     bborder-radius: 11px 11px 11px 11px;
     -moz-border-radius: 11px 11px 11px 11px;
     -webkit-border-radius: 11px 11px 11px 11px;
     border: 0px solid #000000;
+    width: 120%
 }
 .img_tarjetas{
     position:relative;
@@ -240,4 +288,22 @@
 footer{
     background: #252525;
 
+}
+
+.card{
+    border:0;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 0px; /* Added */
+}
+
+.row-bottom-margin { 
+    margin-bottom:0px;
+    margin-top:0px;
+}
+
+.my_banner_row{
+    background-image: url("../img/banner2.png");
+    object-fit: scale-down;
+    
 }
