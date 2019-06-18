@@ -29,6 +29,36 @@
     background: -moz-linear-gradient(#eaf9f9, #2fdfe5); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#eaf9f9, #2fdfe5); /* Standard syntax */
 }
+.background_cost{
+    background: -webkit-linear-gradient(#FDEBBB, #AF9243); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#FDEBBB, #AF9243); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#FDEBBB, #AF9243); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#FDEBBB, #AF9243); /* Standard syntax */
+}
+.background_econt{
+    background: -webkit-linear-gradient(#FFC8DD, #E9719E); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#FFC8DD, #E9719E); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#FFC8DD, #E9719E); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#FFC8DD, #E9719E); /* Standard syntax */
+}
+.background_fm{
+    background: -webkit-linear-gradient(#BFF2FF, #0CC3F4); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#BFF2FF, #0CC3F4); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#BFF2FF, #0CC3F4); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#BFF2FF, #0CC3F4); /* Standard syntax */
+}
+.background_gestion{
+    background: -webkit-linear-gradient(#FFE4C7, #FFBF78); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#FFE4C7, #FFBF78); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#FFE4C7, #FFBF78); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#FFE4C7, #FFBF78); /* Standard syntax */
+}
+.background_vianda{
+    background: -webkit-linear-gradient(#FFD1CC, #F87365); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#FFD1CC, #F87365); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#FFD1CC, #F87365); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#FFD1CC, #F87365); /* Standard syntax */
+}
 .big_letter{
     font-size: 6em;
     color: #2C4B9F ;
@@ -36,6 +66,26 @@
 .big_letter_clubs{
     font-size: 6em;
     color: #4DBFC3 ;
+}
+.big_letter_cost{
+    font-size: 6em;
+    color: #AF9243 ;
+}
+.big_letter_econt{
+    font-size: 6em;
+    color: #CE135A ;
+}
+.big_letter_fm{
+    font-size: 6em;
+    color: #0CC3F4 ;
+}
+.big_letter_gestion{
+    font-size: 6em;
+    color: #F7A041 ;
+}
+.big_letter_vianda{
+    font-size: 6em;
+    color: #F4240F ;
 }
 .font_1{
     font-family: Montserrat;
