@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da71cea-dbeb-4524-8e1d-6d90114a8498" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exito.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmls/exito.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/egonWebpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/egonWebpage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/email_template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmls/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/contacto.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/send_form_email.php" beforeDir="false" afterPath="$PROJECT_DIR$/send_form_email.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendemail.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendemail.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,17 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/send_form_email.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htmls/contacto.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="863">
-              <caret line="78" column="413" lean-forward="true" selection-start-line="78" selection-start-column="413" selection-end-line="78" selection-end-column="413" />
+            <state relative-caret-position="-51">
+              <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -62,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sendemail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="420">
+              <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
               </folding>
@@ -224,7 +208,7 @@
       <workItem from="1561655657218" duration="1052000" />
       <workItem from="1561658124266" duration="300000" />
       <workItem from="1562456748529" duration="2967000" />
-      <workItem from="1562601205943" duration="3699000" />
+      <workItem from="1562601205943" duration="6496000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrego el nav bar y se corrigo los colores&#10;falta corregir el orden y las fuentes">
       <created>1560654828483</created>
@@ -237,7 +221,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66942000" />
+    <option name="totallyTimeSpent" value="69739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -372,13 +356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/email_template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="432" column="33" lean-forward="true" selection-start-line="432" selection-start-column="33" selection-end-line="432" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contacto.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -410,16 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sendemail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/htmls/contacto.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="863">
@@ -427,10 +394,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/email_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="411" column="44" selection-start-line="411" selection-start-column="44" selection-end-line="411" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/send_form_email.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state relative-caret-position="-51">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
         </state>
       </provider>
     </entry>
