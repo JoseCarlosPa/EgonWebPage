@@ -1,5 +1,5 @@
 <?php
-function sendemail($mail_username,$mail_userpassword,$mail_setFromEmail,$mail_setFromName,$mail_addAddress,$txt_message,$mail_subject, $template){
+function sendemail($mail_username,$mail_userpassword,$mail_setFromEmail,$mail_setFromName,$mail_addAddress,$txt_message,$mail_subject, $template,$mail_setFromEmpresa,$mail_setFromTelefono){
     require 'PHPMailer/PHPMailerAutoload.php';
     $mail = new PHPMailer;
     $mail->isSMTP();                            // Establecer el correo electrónico para utilizar SMTP
@@ -13,6 +13,8 @@ function sendemail($mail_username,$mail_userpassword,$mail_setFromEmail,$mail_se
     $mail->addReplyTo($mail_setFromEmail, $mail_setFromName);//Introduzca la dirección de la que debe responder. El segundo parámetro opcional para esta función es el nombre que se mostrará para responder
     $mail->addAddress($mail_addAddress);   // Agregar quien recibe el e-mail enviado
     $message = file_get_contents($template);
+    $message = str_replace('{{empresa}}', $mail_setFromEmpresa, $message);
+    $message = str_replace('{{telefono}}', $mail_setFromTelefono, $message);
     $message = str_replace('{{first_name}}', $mail_setFromName, $message);
     $message = str_replace('{{message}}', $txt_message, $message);
     $message = str_replace('{{customer_email}}', $mail_setFromEmail, $message);
@@ -24,7 +26,7 @@ function sendemail($mail_username,$mail_userpassword,$mail_setFromEmail,$mail_se
         echo '<p style="color:red">No se pudo enviar el mensaje..';
         echo 'Error de correo: ' . $mail->ErrorInfo."</p>";
     } else {
-        echo '<p style="color:green">Tu mensaje ha sido enviado!</p>';
+        header('Location: exito.php');
     }
 }
 ?>
