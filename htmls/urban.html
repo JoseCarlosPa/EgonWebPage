@@ -41,32 +41,32 @@
 
     <!--Iconos con nombre-->
     <div class ="row">
-        <div class ="col-sm-2 align-content-center">
+        <div class ="col s-6 m-0.5 align-content-center">
             <img src="img/urban/like.svg" alt="like" class =" image_icon" height="40m" width="40m">
             <p class ="text-center font_4">ACCESIBLE</p>
         </div>
 
-        <div class ="col-sm-2 ">
+        <div class ="col s-6 m-0.5 ">
             <img src="img/urban/multiple-users-silhouette.svg" class ="image_icon " alt="like" height="40m" width="40m">
             <p class ="text-center font_4">AMIGABLE</p>
         </div>
 
-        <div class ="col-sm-2 ">
+        <div class ="col s-6 m-0.5 ">
             <img src="img/urban/stretching.svg" alt="like" class ="image_icon" height="40m" width="40m">
             <p class ="text-center font_4">FLEXIBLE</p>
         </div>
 
-        <div class ="col-sm-2 ">
+        <div class ="col s-6 m-0.5 ">
             <img src="img/urban/smartphone.svg" alt="like" class ="image_icon" height="40m" width="40m">
             <p class ="text-center font_4">PORTABLE</p>
         </div>
 
-        <div class ="col-sm-2 ">
+        <div class ="col s-6 m-0.5 ">
             <img src="img/urban/lock.svg" alt="like" class ="image_icon" height="40m" width="40m">
             <p class ="text-center font_4">SEGURO</p>
         </div>
 
-        <div class ="col-sm-2 ">
+        <div class ="col s-6 m-0.5 ">
             <img src="img/urban/hand.svg" alt="like" class ="image_icon" height="40m" width="40m">
             <p class ="text-center font_4">RENTABLE</p>
         </div>
@@ -87,9 +87,14 @@
             <p class = "text-center font_2"><b>MÓDULOS A LA MEDIDA</b></p>
         </div>
     </div>
-    <br>
-    <br>
-    <br>
+    
+    <div class="row imagen_pc_movil_urban" id="imagen_pc_movil_urban">
+         <div class ="col-sm-12">
+            <br>
+            <br>
+            <img src="img/urban/computadora.png" alt="like" class ="image_icon" height="250" width="350">
+        </div>
+    </div>
     <div class ="row">
         <div class ="col-sm-12">
             <p class = "text-left font_3">
@@ -108,14 +113,14 @@
             </p>
         </div>
 
-        <div class ="col-sm-6">
+        <div class ="col-sm-6" id="imagen_pc_web_urban">
             <br>
             <br>
             <img src="img/urban/computadora.png" alt="like" class ="image_icon" height="250" width="350">
         </div>
     </div>
     <!--Texto intermedio-->
-    <div class ="row">
+    <div class ="row info_urban" id="info_urban">
         <div class ="col-sm-12">
             <p class = "text-left font_3">
                 <b>Periodos establecidos.</b> Permite configurar el cobro de cuotas por periodos establecidos y
@@ -131,9 +136,7 @@
         </div>
     </div>
     <br>
-    <br>
-    <br>
-    <br>
+    
 
     <!--Caja registradora-->
     <div class ="row">
@@ -153,8 +156,7 @@
     <br>
     <br>
     <br>
-
-
+    
     <!--Otras Ventas-->
 
     <div class ="row">
@@ -162,7 +164,35 @@
             <p class ="font_1 text-center">OTRAS VENTAJAS</p>
         </div>
     </div>
+    
+    <div id="carouselExampleIndicators" class="carousel slide carouselExampleIndicators" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="img/mobilurban/controlcard.png" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="img/mobilurban/formatocard.png" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="img/mobilurban/bancarioscard.png" alt="Third slide">
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
 
+    <div id="cards_mobile" >
     <!--Cuadrados-->
     <br>
     <div class="cuadrado">
@@ -225,6 +255,7 @@
 
 
         </div>
+    </div>
     </div>
 
     <!--Barra publciidad-->

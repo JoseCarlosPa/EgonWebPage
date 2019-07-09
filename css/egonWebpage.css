@@ -7,8 +7,70 @@
     .texto1{
         display: none;
     }
+    
+    
 }
 
+@media screen 
+ and (max-device-width: 480px) 
+ and (min-device-width: 0px) 
+{ 
+    #imagen_pc_movil_urban{
+        display: inline;
+        visibility: visible;
+    }
+    
+    #imagen_pc_web_urban{
+        display: none;
+    }
+    
+    #info_urban{
+        display: none;
+    }
+    
+    #carouselExampleIndicators{
+        display: inline;
+        visibility: visible;
+    }
+    
+    #cards_mobile{
+        display: none;
+    }
+    
+}
+
+@media screen 
+ and (max-device-width: 10000px) 
+ and (min-device-width: 481px) 
+{ 
+    #imagen_pc_movil_urban{
+        display: none;
+    }
+    
+     #imagen_pc_web_urban{
+        display: inline;
+        visibility: visible;
+    }
+    
+    #info_urban{
+        display: inline;
+        visibility: visible;
+    }
+    
+    #carouselExampleIndicators{
+        display: none;
+    }
+    
+    .carouselExampleIndicators{
+        display: none;
+    }
+    
+    #cards_mobile{
+        display: inline;
+        visibility: visible;
+    }
+
+}
 
 
 .social_image {
