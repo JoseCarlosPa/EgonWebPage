@@ -334,7 +334,7 @@ text-align: center;
 
 .font_12{
     font-family: Montserrat;
-    font-size: 0.95em;
+    font-size: 0.9em;
     color: black;
     font-weight: 400;
 }
@@ -428,7 +428,7 @@ text-align: center;
 .cuadrado_vianda{
     padding:5px;
     width:100%;
-    height:10%;
+    height:100%;
 
     background-color: #D05C02;
     bborder-radius: 11px 11px 11px 11px;
