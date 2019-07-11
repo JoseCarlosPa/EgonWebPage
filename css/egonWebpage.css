@@ -84,10 +84,9 @@ text-align: center;
 
 .container_header {
     margin: 0 auto;
-    padding-left: 20%;
-    padding-right: 20%;
-    align-items: center;
-    text-align: center;
+    padding-left: 40%;
+    padding-right: 0%;
+    text-align: left;
 }
 
 .container_header_2 {
@@ -97,7 +96,7 @@ text-align: center;
 }
 
 .container_footer {
-    margin: 0 auto;
+
     padding-left: 5%;
     padding-right: 5%;
 }
