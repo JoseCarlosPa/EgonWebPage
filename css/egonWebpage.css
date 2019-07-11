@@ -36,6 +36,10 @@
     #cards_mobile{
         display: none;
     }
+
+    .align_econt{
+        text-align: center;
+    }
     
 }
 
@@ -68,6 +72,9 @@
     #cards_mobile{
         display: inline;
         visibility: visible;
+    }
+    .align_econt{
+        text-align: right;
     }
 
 }
@@ -453,6 +460,8 @@ text-align: center;
 }
 
 .publicidad{
+
+    max-width: 102%;
     background: #F5F5F5;
 
 }
