@@ -4,9 +4,7 @@
         text-align: center;
 
     }
-    .texto1{
-        display: none;
-    }
+
     
     
 }
@@ -40,6 +38,25 @@
     .align_econt{
         text-align: center;
     }
+    .texto_screen{
+        display: none;
+    }
+    .footer_screen{
+        display:none;
+    }
+    .cuadrado_contacto{
+        padding: 5%;
+        width: 100%;
+        height:95%;
+
+        background-color: #ffffff;
+        bborder-radius: 11px 11px 11px 11px;
+        -moz-border-radius: 11px 11px 11px 11px;
+        -webkit-border-radius: 11px 11px 11px 11px;
+
+
+    }
+
     
 }
 
@@ -76,6 +93,26 @@
     .align_econt{
         text-align: right;
     }
+
+    .texto_movil{
+        display: none;
+    }
+    .footer_movil{
+        display: none;
+    }
+    .cuadrado_contacto{
+        padding: 5%;
+        width: 130%;
+        height:75%;
+
+        background-color: #ffffff;
+        bborder-radius: 11px 11px 11px 11px;
+        -moz-border-radius: 11px 11px 11px 11px;
+        -webkit-border-radius: 11px 11px 11px 11px;
+
+
+    }
+
 
 }
 
@@ -443,18 +480,7 @@ text-align: center;
     border: 0px solid #000000;
     color: white;
 }
-.cuadrado_contacto{
-    padding: 5%;
-    width: 100%;
-    height:100%;
 
-    background-color: #ffffff;
-    bborder-radius: 11px 11px 11px 11px;
-    -moz-border-radius: 11px 11px 11px 11px;
-    -webkit-border-radius: 11px 11px 11px 11px;
-
-
-}
 .img_tarjetas{
     position:relative;
 }
@@ -513,5 +539,5 @@ footer{
 
 .degradado_contacto{
     background: rgb(0,162,255);
-background: linear-gradient(180deg, rgba(0,162,255,0.47290791316526615) 0%, rgba(0,3,36,0) 34%);
+    background: linear-gradient(180deg, rgba(0,162,255,0.47290791316526615) 0%, rgba(0,3,36,0) 34%);
 }
