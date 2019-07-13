@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da71cea-dbeb-4524-8e1d-6d90114a8498" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/egonWebpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/egonWebpage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmls/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmls/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/htmls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,26 +37,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/htmls/footer.html">
+        <entry file="file://$PROJECT_DIR$/htmls/clubs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="78" column="161" selection-start-line="78" selection-start-column="161" selection-end-line="78" selection-end-column="161" />
-              <folding>
-                <element signature="e#3418#3424#0" expanded="true" />
-                <element signature="e#3424#3430#0" expanded="true" />
-                <element signature="e#3430#3436#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/egonWebpage.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+            <state relative-caret-position="157">
+              <caret line="211" column="29" lean-forward="true" selection-start-line="211" selection-start-column="29" selection-end-line="211" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -83,12 +70,12 @@
       <find>footer</find>
       <find>agenda una</find>
       <find>.my</find>
-      <find>agendar</find>
       <find>card_body</find>
       <find>.card-body</find>
       <find>nuestros</find>
       <find>card_movil</find>
       <find>cards_mobile</find>
+      <find>agendar</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -123,13 +110,13 @@
         <option value="$PROJECT_DIR$/htmls/contacto.html" />
         <option value="$PROJECT_DIR$/send_form_email.php" />
         <option value="$PROJECT_DIR$/htmls/urban.html" />
-        <option value="$PROJECT_DIR$/htmls/header.html" />
-        <option value="$PROJECT_DIR$/htmls/clubs.html" />
         <option value="$PROJECT_DIR$/htmls/vianda.html" />
         <option value="$PROJECT_DIR$/htmls/econt.html" />
+        <option value="$PROJECT_DIR$/htmls/footer.html" />
         <option value="$PROJECT_DIR$/htmls/index.html" />
         <option value="$PROJECT_DIR$/css/egonWebpage.css" />
-        <option value="$PROJECT_DIR$/htmls/footer.html" />
+        <option value="$PROJECT_DIR$/htmls/header.html" />
+        <option value="$PROJECT_DIR$/htmls/clubs.html" />
       </list>
     </option>
   </component>
@@ -137,7 +124,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -149,7 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -171,6 +157,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +220,8 @@
       <workItem from="1562456748529" duration="2967000" />
       <workItem from="1562601205943" duration="6496000" />
       <workItem from="1562686435907" duration="8068000" />
-      <workItem from="1562719979066" duration="10648000" />
+      <workItem from="1562719979066" duration="11741000" />
+      <workItem from="1563025567864" duration="207000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrego el nav bar y se corrigo los colores&#10;falta corregir el orden y las fuentes">
       <created>1560654828483</created>
@@ -246,13 +234,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88455000" />
+    <option name="totallyTimeSpent" value="89755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2463651" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25040388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -398,13 +385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmls/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="47" column="57" selection-start-line="47" selection-start-column="57" selection-end-line="47" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/mobilurban/cardcostcontrol.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -470,13 +450,6 @@
     <entry file="file://$PROJECT_DIR$/img/mobilurban/cardapatablevianda.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmls/clubs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2445">
-          <caret line="163" column="12" lean-forward="true" selection-start-line="163" selection-start-column="12" selection-end-line="163" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/htmls/urban.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2298">
@@ -484,29 +457,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmls/index.html">
+    <entry file="file://$PROJECT_DIR$/htmls/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1497">
-          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="1170">
+          <caret line="78" column="139" selection-start-line="78" selection-start-column="139" selection-end-line="78" selection-end-column="139" />
+          <folding>
+            <element signature="e#3418#3424#0" expanded="true" />
+            <element signature="e#3424#3430#0" expanded="true" />
+            <element signature="e#3430#3436#0" expanded="true" />
+            <element signature="e#3436#3442#0" expanded="true" />
+            <element signature="e#3442#3448#0" expanded="true" />
+            <element signature="e#3448#3454#0" expanded="true" />
+            <element signature="e#3454#3460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmls/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/egonWebpage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        <state relative-caret-position="-4110">
+          <caret line="129" column="19" lean-forward="true" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmls/footer.html">
+    <entry file="file://$PROJECT_DIR$/htmls/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="78" column="161" selection-start-line="78" selection-start-column="161" selection-end-line="78" selection-end-column="161" />
-          <folding>
-            <element signature="e#3418#3424#0" expanded="true" />
-            <element signature="e#3424#3430#0" expanded="true" />
-            <element signature="e#3430#3436#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-714">
+          <caret line="147" column="54" selection-start-line="147" selection-start-column="54" selection-end-line="147" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmls/clubs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="211" column="29" lean-forward="true" selection-start-line="211" selection-start-column="29" selection-end-line="211" selection-end-column="29" />
         </state>
       </provider>
     </entry>

@@ -116,7 +116,12 @@
 
 }
 
+.agendar{
+    text-align: center;
+    align-items: center;
+    align-content: center;
 
+}
 .social_image {
 text-align: center;
 
@@ -406,7 +411,7 @@ text-align: center;
 .font_16{
     font-family: Montserrat;
     font-size: 0.7em;
-    color: black;
+    color: #ffffff;
     font-weight: 800;
 }
 
