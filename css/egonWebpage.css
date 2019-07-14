@@ -292,8 +292,8 @@ text-align: center;
     font-size: 0.9em;
     color: white;
     text-align: left;
-    font-weight: normal;
     vertical-align: middle;
+    font-weight: normal;
 
 
 }
@@ -451,8 +451,8 @@ text-align: center;
 
 .cuadrado{
     padding:5px;
-    width:100%;
-    height:70%;
+    width: 60em;
+    height:13em;
     background-color: #0F2F48;
     bborder-radius: 11px 11px 11px 11px;
     -moz-border-radius: 11px 11px 11px 11px;
@@ -462,8 +462,8 @@ text-align: center;
 }
 .cuadrado_clubs{
     padding:5px;
-    width:100%;
-    height:70%;
+    width: 60em;
+    height:10em;
 
     background-color: #79AA45;
     bborder-radius: 11px 11px 11px 11px;
@@ -474,9 +474,9 @@ text-align: center;
 }
 
 .cuadrado_vianda{
-    padding:5px;
-    width:100%;
-    height:100%;
+    padding:10px;
+    width:60em;
+    height:10em;
 
     background-color: #D05C02;
     bborder-radius: 11px 11px 11px 11px;

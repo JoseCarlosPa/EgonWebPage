@@ -4,8 +4,9 @@
     <list default="true" id="0da71cea-dbeb-4524-8e1d-6d90114a8498" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/egonWebpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/egonWebpage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmls/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmls/clubs.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/clubs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmls/urban.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/urban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmls/vianda.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/vianda.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,11 +39,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/htmls/clubs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="211" column="29" lean-forward="true" selection-start-line="211" selection-start-column="29" selection-end-line="211" selection-end-column="29" />
+            <state relative-caret-position="-531">
+              <caret line="176" column="82" selection-start-line="176" selection-start-column="82" selection-end-line="176" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/htmls/vianda.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="254" column="33" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmls/urban.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="211" column="120" selection-start-line="211" selection-start-column="120" selection-end-line="211" selection-end-column="120" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/egonWebpage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="475" lean-forward="true" selection-start-line="475" selection-end-line="475" />
             </state>
           </provider>
         </entry>
@@ -109,14 +137,14 @@
         <option value="$PROJECT_DIR$/sendemail.php" />
         <option value="$PROJECT_DIR$/htmls/contacto.html" />
         <option value="$PROJECT_DIR$/send_form_email.php" />
-        <option value="$PROJECT_DIR$/htmls/urban.html" />
-        <option value="$PROJECT_DIR$/htmls/vianda.html" />
         <option value="$PROJECT_DIR$/htmls/econt.html" />
         <option value="$PROJECT_DIR$/htmls/footer.html" />
         <option value="$PROJECT_DIR$/htmls/index.html" />
-        <option value="$PROJECT_DIR$/css/egonWebpage.css" />
         <option value="$PROJECT_DIR$/htmls/header.html" />
+        <option value="$PROJECT_DIR$/css/egonWebpage.css" />
+        <option value="$PROJECT_DIR$/htmls/urban.html" />
         <option value="$PROJECT_DIR$/htmls/clubs.html" />
+        <option value="$PROJECT_DIR$/htmls/vianda.html" />
       </list>
     </option>
   </component>
@@ -124,7 +152,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -136,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -153,11 +182,21 @@
               <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="htmls" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="EgonWebPage" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EgonWebPage" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="clubs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,6 +261,7 @@
       <workItem from="1562686435907" duration="8068000" />
       <workItem from="1562719979066" duration="11741000" />
       <workItem from="1563025567864" duration="207000" />
+      <workItem from="1563117979616" duration="1450000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrego el nav bar y se corrigo los colores&#10;falta corregir el orden y las fuentes">
       <created>1560654828483</created>
@@ -234,12 +274,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89755000" />
+    <option name="totallyTimeSpent" value="91205000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25040388" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25444266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -434,13 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmls/vianda.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/mobilurban/cardviandaexp.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -449,13 +483,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/img/mobilurban/cardapatablevianda.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmls/urban.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2298">
-          <caret line="182" column="14" lean-forward="true" selection-start-line="182" selection-start-column="14" selection-end-line="182" selection-end-column="14" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/htmls/footer.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -480,13 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/egonWebpage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4110">
-          <caret line="129" column="19" lean-forward="true" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/htmls/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-714">
@@ -494,10 +514,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/egonWebpage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="475" lean-forward="true" selection-start-line="475" selection-end-line="475" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmls/urban.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="211" column="120" selection-start-line="211" selection-start-column="120" selection-end-line="211" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/htmls/clubs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="211" column="29" lean-forward="true" selection-start-line="211" selection-start-column="29" selection-end-line="211" selection-end-column="29" />
+        <state relative-caret-position="-531">
+          <caret line="176" column="82" selection-start-line="176" selection-start-column="82" selection-end-line="176" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmls/vianda.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="254" column="33" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
         </state>
       </provider>
     </entry>
