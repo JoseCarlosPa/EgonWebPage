@@ -122,6 +122,13 @@
     align-content: center;
 
 }
+
+.egon {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+
+}
 .social_image {
 text-align: center;
 
@@ -539,7 +546,14 @@ footer{
     background-image: url("../img/banner2.png");
     height: 100%;
     width: 100%;
-    
+
+}
+
+.my_banner2_row {
+    background-image: url("../img/indexfoot.png");
+    height: 100%;
+    width: 100%;
+
 }
 
 .degradado_contacto{
