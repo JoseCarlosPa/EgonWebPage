@@ -140,7 +140,7 @@ text-align: center;
 
 .container_header {
     margin: 0 auto;
-    padding-left: 38%;
+    padding-left: 46%;
     padding-right: 0%;
     text-align: left;
 }
@@ -581,3 +581,18 @@ footer{
     height: 2em;
 }
 
+.header_item_color{
+    color:#777777;
+    font-family: Montserrat;
+    font-weight: normal;
+    opacity: 1;
+}
+
+.queines{
+    text-align: center;
+    font-weight: bold;
+    font-family:  Montserrat;
+    letter-spacing: 0;
+    color: #1A1A1A;
+    opacity: 1;
+}
