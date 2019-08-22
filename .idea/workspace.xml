@@ -41,6 +41,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jose Carlos &lt;a01702828@itesm.mx&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpServers">
@@ -119,6 +124,7 @@
       <workItem from="1563228113247" duration="972000" />
       <workItem from="1566422910106" duration="837000" />
       <workItem from="1566424121116" duration="1793000" />
+      <workItem from="1566481178945" duration="490000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrego el nav bar y se corrigo los colores&#10;falta corregir el orden y las fuentes">
       <created>1560654828483</created>
@@ -127,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560654828483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Se modifico el index y estilos">
+      <created>1566481426476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566481426476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +175,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se agrego el nav bar y se corrigo los colores&#10;falta corregir el orden y las fuentes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrego el nav bar y se corrigo los colores&#10;falta corregir el orden y las fuentes" />
+    <MESSAGE value="Se modifico el index y estilos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se modifico el index y estilos" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="masterDetails">
     <states>
