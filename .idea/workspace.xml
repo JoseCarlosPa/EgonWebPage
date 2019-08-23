@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da71cea-dbeb-4524-8e1d-6d90114a8498" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmls/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmls/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmls/header.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,6 +125,7 @@
       <workItem from="1566422910106" duration="837000" />
       <workItem from="1566424121116" duration="1793000" />
       <workItem from="1566481178945" duration="2816000" />
+      <workItem from="1566528203760" duration="223000" />
     </task>
     <task id="LOCAL-00001" summary="Se agrego el nav bar y se corrigo los colores&#10;falta corregir el orden y las fuentes">
       <created>1560654828483</created>
